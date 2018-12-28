@@ -7,3 +7,4 @@ bản python
 cách cài, yêu cầu phải cài pip và wheel
 xong vào thư mục chứa file tải về theo đường link ở trên --> nhập lệnh: pip -m install "tên file tải về có cả đuôi file'
 xong kiểm tra bằng cách mở python --> và import pygame nếu thành công sẽ hiện phiên bản
+link video hướng dẫn: https://www.youtube.com/watch?v=vGb5EX3XjdI
